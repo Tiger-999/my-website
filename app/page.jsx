@@ -3,7 +3,7 @@ export default function Home() {
     // <div className="min-h-screen bg-gradient-to-br from-pink-500 to-yellow-400 flex items-center justify-center">
       <div>
       {/* <h1 className="text-4xl font-bold text-white"> */}
-      <h1>
+      <h1 className="text-xl">
         Welcome to my website
       </h1>
       <h2>My name is Nutdanai Panyawisetpongse.</h2>
@@ -15,7 +15,7 @@ export default function Home() {
       <p>Tools: Postman, GitHub, Visual Studio Code</p>
       <p>Programming Languages: Javascript, Typescript, Python, C</p>
       <p>Github: https://github.com/Tiger-999</p>
-      
+
       </div>
     // {/* </div> */}
   );
